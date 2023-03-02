@@ -61,7 +61,7 @@ interval = (upper - lower)/float(count)
 
 summ = 0
 
-xval = np.linspace(lower, upper, 100)
+xval = np.linspace(lower, upper, 500)
 
 def f(x):
     y = []
