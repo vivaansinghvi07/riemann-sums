@@ -25,7 +25,7 @@ trig = {"sin(": "math.sin(",
         "csc(": "math.csc("}
 
 for item in trig: 
-    inp = inp.replace(item, trig[item], 10)
+    inp = inp.replace(item, trig[item])
 
 func = lambda x: eval(inp)
 
