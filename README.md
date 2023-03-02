@@ -1,5 +1,8 @@
 # riemann-sums
-Calculates and graphs Riemann Sums of a function! The graph is put into a file called "graph.png"
+Calculates and graphs Riemann Sums of a function! The graph is put into a file called "graph.png."
+An example of the graph can be seen below:
+
+![Graph](graph.png)
 
 ## To use:
 - Create a python environment 
